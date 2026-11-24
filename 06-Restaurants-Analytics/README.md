@@ -49,7 +49,7 @@ It provides management with a consolidated view of restaurant operations to eval
 ### Restaurant Sales & Business Performance Dashboard
 
 <p align="center">
-  <img src="Dashboard-Screenshots/Restaurant_Analytics_Dashboard.png" alt="Restaurant Analytics Dashboard" width="100%"/>
+  <img src="Data-Dashboard-Screenshots/Screenshot%202026-09-21%20214947.png" alt="Restaurant Analytics Dashboard" width="100%"/>
 </p>
 
 *An interactive Excel dashboard providing a consolidated view of restaurant sales, profitability, customer behavior, menu performance, payment distribution, and service operations.*
