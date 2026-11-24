@@ -1,4 +1,4 @@
-# 💰 Personal Finance Dashboard | Microsoft Excel
+<align="center"> # 💰 Personal Finance Dashboard | Microsoft Excel
 
 <div align="center">
 
