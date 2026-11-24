@@ -1,4 +1,4 @@
-<align="center"><h1>  # 💰 Personal Finance Dashboard | Microsoft Excel</h1>
+<h1>  # 💰 Personal Finance Dashboard | Microsoft Excel</h1>
 
 <div align="center">
 
