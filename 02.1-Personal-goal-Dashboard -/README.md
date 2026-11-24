@@ -49,7 +49,7 @@ It provides a consolidated view of personal financial performance to understand 
 ### Personal Finance & Financial Performance Dashboard
 
 <p align="center">
-  <img src="Personal%20Finance%20Dashboard%20FY%202026.png" alt="Personal Finance Dashboard FY 2026" width="100%"/>
+  <img src="Data-Dashboard-Screenshots/Personal%20Finance%20Dashboard%20FY%202026.png" alt="Personal Finance Dashboard FY 2026" width="100%"/>
 </p>
 
 *An interactive Excel dashboard providing a consolidated view of personal income, expenses, savings, investments, net worth, financial goals, and monthly financial performance.*
