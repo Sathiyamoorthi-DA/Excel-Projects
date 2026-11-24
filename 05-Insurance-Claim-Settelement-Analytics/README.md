@@ -49,7 +49,7 @@ It provides management with a consolidated view of insurance operations to evalu
 ### Insurance Sales & Claims Settlement Dashboard
 
 <p align="center">
-  <img src="Dashboard-Screenshots/Insurance_Sales_Claims_Dashboard.png" alt="Insurance Sales and Claims Settlement Dashboard" width="100%"/>
+  <img src="Data-Dashboard-Screenshots/Screenshot%202026-11-23%20114310.png" alt="Insurance Sales and Claims Settlement Dashboard" width="100%"/>
 </p>
 
 *An interactive Excel dashboard providing a consolidated view of insurance sales, premium revenue, customer policies, claim settlements, regional performance, and policy status.*
