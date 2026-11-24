@@ -46,7 +46,7 @@ It provides management with a consolidated view of inventory operations to monit
 ### Inventory Management & Stock Performance Dashboard
 
 <p align="center">
-  <img src="Dashboard-Screenshots/Inventory_Analytics_Dashboard.png" alt="Inventory Analytics Dashboard" width="100%"/>
+  <img src="Data-Dashboard-Screenshots/Screenshot%202026-09-18%20205348.png" alt="Inventory Analytics Dashboard" width="100%"/>
 </p>
 
 *An interactive Excel dashboard providing a consolidated view of inventory value, stock availability, sales and purchase trends, supplier performance, and warehouse operations.*
