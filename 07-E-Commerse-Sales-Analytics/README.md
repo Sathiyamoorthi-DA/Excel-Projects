@@ -49,7 +49,7 @@ It provides management with a consolidated view of e-commerce operations to eval
 ### E-Commerce Sales & Business Performance Dashboard
 
 <p align="center">
-  <img src="Dashboard-Screenshots/Ecommerce_Sales_Dashboard.png" alt="E-Commerce Sales Analytics Dashboard" width="100%"/>
+  <img src="Screenshot%202026-11-24%20150330.png" alt="E-Commerce Sales Analytics Dashboard" width="100%"/>
 </p>
 
 *An interactive Excel dashboard providing a consolidated view of e-commerce revenue, profitability, product performance, customer contribution, payment distribution, order status, and shipping operations.*
