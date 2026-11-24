@@ -47,7 +47,7 @@ It provides management with a consolidated view of invoice processing activities
 ### Business Performance & Invoice Processing Dashboard
 
 <p align="center">
-  <img src="Dashboard-Screenshots/Business_Performance_Dashboard.webp" alt="Business Performance Dashboard" width="100%"/>
+  <img src="Screenshot%202026-09-29%20133832.png" alt="Business Performance Dashboard" width="100%"/>
 </p>
 
 *An interactive Excel dashboard providing a consolidated view of invoice processing, payment operations, regional performance, cycle times, and financial KPIs.*
